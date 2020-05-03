@@ -1,6 +1,6 @@
-import offer1 from '../../images/Image/offer1.png';
-import offer2 from '../../images/Image/offer2.png';
-import offer3 from '../../images/Image/offer3.png';
+import offer1 from '../../images/image/offer1.png';
+import offer2 from '../../images/image/offer2.png';
+import offer3 from '../../images/image/offer3.png';
 
 const offerItem = [
     {

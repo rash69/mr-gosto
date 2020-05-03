@@ -1,23 +1,23 @@
-import break1 from './../../images/Breakfast/breakfast1.png';
-import break2 from './../../images/Breakfast/breakfast2.png';
-import break3 from './../../images/Breakfast/breakfast3.png';
-import break4 from './../../images/Breakfast/breakfast4.png';
-import break5 from './../../images/Breakfast/breakfast5.png';
-import break6 from './../../images/Breakfast/breakfast6.png';
+import break1 from '../../images/breakfast/breakfast1.png';
+import break2 from '../../images/breakfast/breakfast1.png';
+import break3 from '../../images/breakfast/breakfast1.png';
+import break4 from '../../images/breakfast/breakfast1.png';
+import break5 from '../../images/breakfast/breakfast1.png';
+import break6 from '../../images/breakfast/breakfast1.png';
 
-import lunch1 from './../../images/lunch/lunch1.png';
-import lunch2 from './../../images/lunch/lunch2.png';
-import lunch3 from './../../images/lunch/lunch3.png';
-import lunch4 from './../../images/lunch/lunch4.png';
-import lunch5 from './../../images/lunch/lunch5.png';
-import lunch6 from './../../images/lunch/lunch6.png';
+import lunch1 from '../../images/lunch/lunch1.png';
+import lunch2 from '../../images/lunch/lunch2.png';
+import lunch3 from '../../images/lunch/lunch3.png';
+import lunch4 from '../../images/lunch/lunch4.png';
+import lunch5 from '../../images/lunch/lunch5.png';
+import lunch6 from '../../images/lunch/lunch6.png';
 
-import dinner1 from './../../images/Dinner/dinner1.png';
-import dinner2 from './../../images/Dinner/dinner2.png';
-import dinner3 from './../../images/Dinner/dinner3.png';
-import dinner4 from './../../images/Dinner/dinner4.png';
-import dinner5 from './../../images/Dinner/dinner5.png';
-import dinner6 from './../../images/Dinner/dinner6.png';
+import dinner1 from '../../images/dinner/dinner1.png';
+import dinner2 from '../../images/dinner/dinner2.png';
+import dinner3 from '../../images/dinner/dinner3.png';
+import dinner4 from '../../images/dinner/dinner4.png';
+import dinner5 from '../../images/dinner/dinner5.png';
+import dinner6 from '../../images/dinner/dinner6.png';
 
 
 

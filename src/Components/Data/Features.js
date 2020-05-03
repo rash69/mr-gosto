@@ -1,9 +1,9 @@
-import Chef from '../images/Image/chef-cook-food-33614.png';
-import Adult from '../images/Image/adult-blur-blurred-background-687824.png';
-import Architecture from '../images/Image/architecture-building-city-2047397.png';
-import car from '../images/Others/car.png';
-import chef from '../images/Others/notification.png';
-import bus from '../images/Others/bus.png';
+import Chef from '../../images/image/chef-cook-food-33614.png';
+import Adult from '../../images/image/adult-blur-blurred-background-687824.png';
+import Architecture from '../../images/image/architecture-building-city-2047397.png';
+import car from '../../images/others/car.png';
+import chef from '../../images/others/notification.png';
+import bus from '../../images/others/bus.png';
 
 const FeaturingData = [
 	{

@@ -1,9 +1,9 @@
-import special1 from '../../images/Image/special1.png';
-import special2 from '../../images/Image/special2.png';
-import special3 from '../../images/Image/special3.png';
-import special4 from '../../images/Image/special4.png';
-import special5 from '../../images/Image/special5.png';
-import special6 from '../../images/Image/special6.png';
+import special1 from '../../images/image/special1.png';
+import special2 from '../../images/image/special2.png';
+import special3 from '../../images/image/special3.png';
+import special4 from '../../images/image/special4.png';
+import special5 from '../../images/image/special5.png';
+import special6 from '../../images/image/special6.png';
 
 
 const specialItem = [
