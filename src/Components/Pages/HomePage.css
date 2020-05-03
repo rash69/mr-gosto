@@ -1,0 +1,42 @@
+.row{ 
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.title{
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+
+.category-btn{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    margin: 15px 10px;
+    padding: 20px;
+
+}
+
+.category-btn:focus{
+    outline: none;
+}
+
+.active-btn{
+    position: relative;
+    color: red;
+}
+.active-btn:after {
+	position: absolute;
+	content: "";
+	background: red;
+	height: 2px;
+	width: 20%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-left: 40%;
+
+}

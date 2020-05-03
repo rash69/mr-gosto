@@ -1,0 +1,14 @@
+.header img{
+    border-radius: 50%;
+}
+
+.content a{
+    color: white;
+    text-decoration: none;
+    margin: 10px 20px;
+    cursor: pointer;
+}
+
+.content a:hover{
+    color: greenyellow;
+}
